@@ -1,0 +1,19 @@
+{
+  "name": "angular2-template",
+  "version": "1.0.0",
+  "description": "Template for starting Angular 2 projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TLein77/angular2-template.git"
+  },
+  "author": "Todd Leininger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TLein77/angular2-template/issues"
+  },
+  "homepage": "https://github.com/TLein77/angular2-template#readme"
+}
